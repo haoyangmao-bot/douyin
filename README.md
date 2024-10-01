@@ -1,6 +1,6 @@
 # 抖音推荐/搜索页视频列表视频爬虫方案
 
-> 最近测试可用时间：`2021.08.09` 
+> 最近测试可用时间：`2024.06.20`
 
 > adb暂未实现进入搜索页的操作，请根据自身技术栈实现相关点击操作及键入关键词等
 
@@ -56,7 +56,6 @@ github.com/spf13/viper
 
 Thanks for [Jetbrains Open Source Licenses](https://www.jetbrains.com/community/opensource/#support).
 
+## 声明
 
-## 捐赠
-
-![](example/donate.jpg)
+本项目只做个人学习研究之用，不得用于商业用途！
